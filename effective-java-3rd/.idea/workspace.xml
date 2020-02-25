@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="874656b8-37dd-4894-a7ea-e9be23358ef4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YBKUQOBLj0SKyORZLsIH9iPOkS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager">
+    <configuration name="GradleTest2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GradleTest2" />
+      <module name="effective-java-3rd.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="docker-deploy" factoryName="dockerfile" server-name="Docker">
+      <deployment type="dockerfile">
+        <settings>
+          <option name="buildCliOptions" value="" />
+          <option name="buildOnly" value="true" />
+          <option name="command" value="" />
+          <option name="containerName" value="" />
+          <option name="entrypoint" value="" />
+          <option name="imageTag" value="" />
+          <option name="commandLineOptions" value="" />
+          <option name="sourceFilePath" value="" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.GradleTest2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="874656b8-37dd-4894-a7ea-e9be23358ef4" name="Default Changelist" comment="" />
+      <created>1582410562444</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582410562444</updated>
+      <workItem from="1582410563715" duration="2563000" />
+      <workItem from="1582485302279" duration="137000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="517" y="237" width="811" height="669" key="#Project_Structure" timestamp="1582412563728">
+      <screen x="43" y="23" width="1749" height="1097" />
+    </state>
+    <state x="517" y="237" width="811" height="669" key="#Project_Structure/43.23.1749.1097@43.23.1749.1097" timestamp="1582412563728" />
+    <state x="347" y="214" width="1071" height="818" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582416750753">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="347" y="214" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1582416750753" />
+    <state x="382" y="233" width="1071" height="818" key="#com.intellij.execution.impl.EditConfigurationsDialog/43.23.1749.1097@43.23.1749.1097" timestamp="1582410620991" />
+    <state x="633" y="423" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1582416748977">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="633" y="423" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1582416748977" />
+    <state width="1748" height="303" key="GridCell.Tab.0.bottom" timestamp="1582485234980">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1748" height="303" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1582485234980" />
+    <state width="1705" height="303" key="GridCell.Tab.0.bottom/43.23.1749.1097@43.23.1749.1097" timestamp="1582412724440" />
+    <state width="1748" height="303" key="GridCell.Tab.0.center" timestamp="1582485234951">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1748" height="303" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1582485234951" />
+    <state width="1705" height="303" key="GridCell.Tab.0.center/43.23.1749.1097@43.23.1749.1097" timestamp="1582412724439" />
+    <state width="1748" height="303" key="GridCell.Tab.0.left" timestamp="1582485234951">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1748" height="303" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1582485234951" />
+    <state width="1705" height="303" key="GridCell.Tab.0.left/43.23.1749.1097@43.23.1749.1097" timestamp="1582412724439" />
+    <state width="1748" height="303" key="GridCell.Tab.0.right" timestamp="1582485234980">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1748" height="303" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1582485234980" />
+    <state width="1705" height="303" key="GridCell.Tab.0.right/43.23.1749.1097@43.23.1749.1097" timestamp="1582412724440" />
+    <state x="573" y="392" key="com.intellij.ide.util.TipDialog" timestamp="1582485307837">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="573" y="392" key="com.intellij.ide.util.TipDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1582485307837" />
+    <state x="499" y="296" width="837" height="550" key="find.popup" timestamp="1582412629395">
+      <screen x="43" y="23" width="1749" height="1097" />
+    </state>
+    <state x="499" y="296" width="837" height="550" key="find.popup/43.23.1749.1097@43.23.1749.1097" timestamp="1582412629395" />
+  </component>
+</project>
